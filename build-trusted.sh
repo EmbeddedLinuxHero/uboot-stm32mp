@@ -5,4 +5,4 @@ export ARCH=arm
 export KBUILD_OUTPUT=./build
 #make distclean
 make stm32mp15_trusted_defconfig
-make DEVICE_TREE=stm32mp151a-kiwi all -j8
+make DEVICE_TREE=stm32mp151aaa-thatico-r2x512v11 all -j8
