@@ -14,7 +14,7 @@
 #include "stm32mp157caa-hdmi-r2x512v10-pin.dtsi"
 
 / {
-	model = "THATICO STM32MP151AAA3 1GB V1.1 Board";
+	model = "THATICO STM32MP1517CAA3 1GB V1.0 Board";
 	compatible = "st,stm32mp157caa-hdmi-r2x512v10", "st,stm32mp157";
 
 	aliases {
